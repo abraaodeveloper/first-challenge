@@ -8,7 +8,7 @@ Ter baixado o projeto completo.
 > Dica: use o Git para baixar o projeto. Para isso você precisa do [Git](https://git-scm.com/downloads) instalado.
 Para baixar com git, use o seguinte comando: 
 ```bash
-git clone https://github.com/abraaodeveloper/challenges.git
+git clone https://github.com/abraaodeveloper/first-challenge.git
 ```
 Ter o [node](https://nodejs.org/en/download/) instalado. 
 
@@ -21,7 +21,7 @@ node test.js
 ```
 
 ## Mais testes
-Você pode testar outras valores editando o arquivo test.js
+Você pode testar outros valores editando o arquivo test.js
 
 
 Espero que goste!
