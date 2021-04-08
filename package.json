@@ -3,18 +3,18 @@
   "name": "challenges",
   "version": "1.0.0",
   "description": "\"# challenges\"",
-  "main": "firstChallenge.js",
+  "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abraaodeveloper/challenges.git"
+    "url": "git+https://github.com/abraaodeveloper/first-challenge.git.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abraaodeveloper/challenges/issues"
+    "url": "https://github.com/abraaodeveloper/first-challenge/issues"
   },
-  "homepage": "https://github.com/abraaodeveloper/challenges#readme"
+  "homepage": "https://github.com/abraaodeveloper/first-challenge.git#readme"
 }
