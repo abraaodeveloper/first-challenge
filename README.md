@@ -1,10 +1,16 @@
-# Challenges
+# first-challenge
 
 Esse projeto contém o primeiro desafio do processo seletivo e um exemplo de teste.
 
 ## Pré Requisitos
 
-Para executar a função solicitada pelo desafio nesse projeto por linha de comando é necessário ter o [node](https://nodejs.org/en/download/) instalado. 
+Ter baixado o projeto completo.
+> Dica: use o Git para baixar o projeto. Para isso você precisa do [Git](https://git-scm.com/downloads) instalado.
+Para baixar com git, use o seguinte comando: 
+```bash
+git clone https://github.com/abraaodeveloper/challenges.git
+```
+Ter o [node](https://nodejs.org/en/download/) instalado. 
 
 ## Execução do teste
 
