@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "challenges",
+  "version": "1.0.0",
+  "description": "\"# challenges\"",
+  "main": "firstChallenge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraaodeveloper/challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abraaodeveloper/challenges/issues"
+  },
+  "homepage": "https://github.com/abraaodeveloper/challenges#readme"
+}
